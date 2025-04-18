@@ -621,7 +621,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Channels Television Live Stream
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745001851/ei/G0kCaIviF6GAkucPxbHKmAE/ip/172.200.180.251/id/dfB0qmJo1eM.808/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51443405/txs/51443402%2C51443403%2C51443404%2C51443405%2C51443406%2C51443407/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcM1fZJrZo6PsMezxE22XiJm6yV2PEPrFl2xGZPMDtJ2GNNBDu8FnCqnllM_T6ULvHA7DXDFAWVp/spc/_S3wKtChfjsKGcZ5JgbaeToYj8Rv4g55DfIswNz4LW8FsJBEGiCWjOuuAZVSSaI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIqQcXX6HYW0nYnoBEbB2cpUZH6a-gSOTDJxLrSk1L5dAiAkdAC429R8ufxI-Jd0W6fZGEII-MXai94UYwJPNl2QcA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Live - Sport Camera - Deerfield Beach, Florida USA
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
