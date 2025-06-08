@@ -522,7 +522,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749369925/ei/5e9EaKe4H7XDkucP5_6B4Ac/ip/20.81.157.222/id/pykpO5kQJ98.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLMKJOa5MiXlnxekN7G-nmaWqpb_SaXLwG5z-dF0owAIhj-L5l4CY_7_1ZHUXCzSe_6TL8cLrH5N/spc/l3OVKTgE25gQc6yhmLSc_g9xXlxRqurR6QZwBqNfKO_58UDFC6h9JVOAp5d4wHQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIk9iO1XExnOcYrMQLHM8FvVnhSEDBZG9R6Cegl5LJ-vAiAP3WPkd2N3C7AgfXzka_MUy1wp1M1Vw0sbXLGe-3RfDw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", Rangin Kaman
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -531,19 +531,19 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", A State Of Trance Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749369927/ei/5-9EaLD-J5bFkucPtrnn4QQ/ip/20.81.157.222/id/NGsjwNsXE0w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPJNxX8tic0OS_oJYscnq4wy4VDfVGuNtmXnyUpPurkAJg1hwFV68ubjNp8zXFQLLCzEY-mQsG2/spc/l3OVKadVeE2eUjNztxoRJr2fKJ2IcbfWCr6VJckhfQiqPOoli9e7uFtC6iBiCJU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWNEGdO7RZOayE2QNYscl3E_8MRKvVGl3GPcs_OTPAGQCIQClEY4D4QaQ9SfmQ5MZhQgUW4vfLBjXWFdsM0wleCEsFA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749369928/ei/6O9EaJrwC8ySkucPjv3q4Qc/ip/20.81.157.222/id/IrISNeGXvQs.3022/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51493636/txs/51493636%2C51493637%2C51493638%2C51493639%2C51493640%2C51493641%2C51493642%2C51493643/hfr/1/maudio/1/gcr/us/bui/AY1jyLOFKxtkCIs9KVw_OHSO9m7srAAIJV6BbmQtoWNY_zSeS0VckpluqM9YYrvul3ikYnK_f3PXhs5Y/spc/l3OVKRwHWB0T6ALb49vtQUYdF0g5c5AsUEuYpSu97AQKpwE5EeR0OECb_yoiM_k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIGalDUdYCSpiDiwtVxJAHHEZQ_T-1ypwj_iS2mLdyfPAiAxw0SJdZT4SDCdgEtOioaMM09i2uJGukBhwjZf-05CZQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749369929/ei/6e9EaJSALbmAkucP3JuO2Ag/ip/20.81.157.222/id/RqUZ2Fv9l8w.2~45700902/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51493642/txs/51493636%2C51493637%2C51493638%2C51493639%2C51493640%2C51493641%2C51493642%2C51493643/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AY1jyLNYtwI47f_ndgEAadTLqZSzq-XS3OXAQMG7RBKM78OrPDEn_rsBqn8kL6qsc4dSou4hs76pU01B/spc/l3OVKSxsdLLOafsX3r9Bwt8CFaIGqlS_xR2BsN-I_Rae5z3cIZItPpbwZTLYkp0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKcN78CLfZq6EqeFzMmKTVnlCertjbdhRs3dH8NEJH-wAiEA6lCpA-VVKM5YSLEbBnmHwYKhcNI1BacRYYTZZwEXO1A%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN2
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749369931/ei/6-9EaM2gLdO1kucPmeK-2Qw/ip/20.81.157.222/id/q-BvtDrTnxc.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPnO0u3U7MVPMlpOz7gnKIHxf344OWEmW3NKYUMCa2Gy7BCN0Cj1bxs005zS6S_Y0yRV-yJZGYL/spc/l3OVKbvEc5fb_S7w7UQEQdZIIMwxolW8tWA3urOQcIU3iXaxKm_SH33fEcq-RbY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge8q0QAT-Hb6IS61Lww3G5BN__-_nU0ZgtmTT2SE3fu8CIH0_21Uq3XBomjsXA2BubVI73q_hl8HXsKd8SDkdMhrw/file/index.m3u8
 
 #EXTINF:-1 group-title="Punjabi" tvg-logo="" tvg-id="", Shri bhucho sahib live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -561,7 +561,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Kaohsiung Shoushan Lovers' Viewing Platform
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749369937/ei/8e9EaKWhM561kucPrOGC-QQ/ip/20.81.157.222/id/C03Itx8iSC0.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMfZVeLX1B2wihELH8Oqmpo-kW--F2bdQiZeJ-pcYOVzKDA31SaXB_fIhTeggKfJ98AEi8dNpu2/spc/l3OVKe0DvYZrlwMEq5-jcwywn2PskX-4kaQmesXadCaxK_pJdWh-Mjd7jpAZAh4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM0cpXLrb2LZQm8tAVZGIg1PJp5HH-44FI_5A6dIXWc5AiAJDb6VVC7sEFEjyweLZ1oW1HowtI2smyB5Rme9Lf-qFQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Wang Gao Liao
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
