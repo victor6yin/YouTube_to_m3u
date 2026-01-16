@@ -477,13 +477,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Zee 24 Taas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768589795/ei/gzVqaY-DJIiN2_gPjvjukQM/ip/135.232.216.48/id/9B4W_ANTrjw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_quauh3n-LU5Gx8_hA9ofHfuKYo-RE9yvlmm5w7Wsv6UlKgxbb1yQqAqDE6zYl39gH3NDxoR1v6/spc/q5xjPBLVHcvou5Y4uRwOw7Lusean0mXDpE0qpqb7SDppBfH3VRdJwFTUozatrPAh_2c/vprv/1/go/1/ns/Ja_46djkGLz3-Lc9N2Pf8xQR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/U8lag274p35D9lqwnqF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdJ2YCEyLQghmt2o9Tpj4itiITW9-0eREVxPixe7m-14CIDtPO8dlMQrrtgj43uD2mLwS5I_unqvHvg142fjbiNEh/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768589798/ei/hjVqaa7vCJillu8P-oSh4AY/ip/135.232.216.48/id/48K06OLnIDk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oQrk4DXMsyP10VxDFooNKXs-6kIzJy113MhFjRjrvoFaoUz1KLkgu_LXXj9_YyqcW5gbryskvK/spc/q5xjPBuwBHDS2f7zGK55WrsHwHCtZH7mWy_qyixXZ1Cxm22tRRw8AEt6LWIo4TcrGIw/vprv/1/go/1/ns/3fdY6Hn5fRKCKhDtVhyXcOQR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/GsiKgHUdtGUgAzk0kvD/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIezUun57GeZr8oQ7Zo02A5OxFCXBsh0D-WssD6jqq9UCIEFGMjXnMhszp6Ul9xT7jwVqhsmSgl5Bq5mbwlqtREln/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
