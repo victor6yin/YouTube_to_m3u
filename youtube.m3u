@@ -600,7 +600,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Romania" tvg-logo="" tvg-id="", TRINITAS TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772613077/ei/dZmnab-rJ_SVsfIP9JfioAI/ip/172.182.195.37/id/Q9R56mgOols.30/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774351/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-wCnN1mBT8WGzvmxg35YI-0HIay3KxeDbPAeayeVGKpScEp-2_DtZ1Si79L44Qw_7N7HtLaFhqG/spc/6dlaFGJx8gxkyPJLRqtEq6POfUuZW858TkqVTcei4NW0myZkb5UtBiixaHlgGLtPnsEyAQ/vprv/1/go/1/ns/2c71NSSS46NLGzFOq2evk6MT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565682%2C51580968%2C51791334/dover/11/n/wAYwXVNThmQ3UigE-Ns/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAKJGAMlxQ2OvPWR5LVyOzvT_5T4ElPlVJ8eWn_mq7S8kAiEA38y6nyJgIitAoMweV3IEGQbjQ7E7jTQzh-lLxt43D2k%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" tvg-id="", NASA Live: Official Stream of NASA TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
