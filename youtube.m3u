@@ -15,10 +15,10 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", TVBS
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776109708/ei/LPTcabuNEdid2_gPrrvzuQo/ip/64.236.200.83/id/2mCSYvcfhtc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AUUZDGLhUKQhE2IIU_hNpS9xJpG2VcuSYUxz5mKEngmXn4w_cOTNWXiUdZHjgITQGpPwIYmilkjLO_tB/spc/jlWava_xgtVX4r0YwNP_R5YkqdeTHYrr-Pik0kN2J-3ycMzbhJj5OYZm9HRjMwiDfAYMzA/vprv/1/go/1/ns/C-7293K_PyZaYTld84nnOL8U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51869321/dover/11/n/LOzFD4sujQDczEEO5uMf/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgNsNmHywXRLKspB__Lhqfxzr9msh7dzgT1U7eQbS33CACIQCkbtCS_M6ig1vLDc3e1zKZbFTWmwJqyU4-0M01P9vx3w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 台視新聞台
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776109709/ei/LfTcab5gu-2W7w_WxM2pCQ/ip/64.236.200.83/id/xL0ch83RAK8.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGKH0_YrHV2sn8gNlCgOa8AnCwxF0fxesLOfU8VB_G2DQJT9ZfWSM2F5VIGuaDiB3ioIHFG7xyMS/spc/jlWavTS1Yorg1w7w9ymGLkRCQfjgTrXTjNhY7BPkEBOab7rjukkkqNj6fvqHnMPc9ZnI4g/vprv/1/go/1/ns/nHNNm0kVGQu_dj8vPv19Z1MU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51869322/dover/11/n/5l_UOJfnBMlo-hkP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgMvV2XDXSpgLLE4K6w6kHumyTkSGcTd-mdrjAM7Z7168CIGkPeoNW7VmCQinor5J-8OdYU5IQGz4YYJBAUPJURa1J/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 三立海外直播
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
